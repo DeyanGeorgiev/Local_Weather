@@ -6,7 +6,7 @@
 
 #info1,
 #info2,
-#info3,
+
 #info5,
 #info6{
     font-size: 40px;
@@ -14,8 +14,9 @@
 
 .container-fluid{
     font-family: 'Neucha', cursive;
-    color: white;
+    color: #36454F;
     font-weight: bold;
+
 }
 
 .grey-jumbo{
@@ -25,9 +26,14 @@
     height: 500px;
     background-color: #66afe9;
 
+
 }
 
 .top{
     background-color: #31b0d5;
 
+}
+
+#info3{
+    font-size: 80px;
 }
