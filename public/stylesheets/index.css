@@ -1,0 +1,33 @@
+.short {
+    width: 100px;
+    border-bottom: solid #f9f9f9;
+
+}
+
+#info1,
+#info2,
+#info3,
+#info5,
+#info6{
+    font-size: 40px;
+}
+
+.container-fluid{
+    font-family: 'Neucha', cursive;
+    color: white;
+    font-weight: bold;
+}
+
+.grey-jumbo{
+
+    margin-top: -30px;
+    border-radius: 0px;
+    height: 500px;
+    background-color: #66afe9;
+
+}
+
+.top{
+    background-color: #31b0d5;
+
+}
